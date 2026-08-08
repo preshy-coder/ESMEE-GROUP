@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+
+# Logs
+*.log
+
+# Local env files (if you add a form backend key etc. later)
+.env
